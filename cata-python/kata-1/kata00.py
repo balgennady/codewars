@@ -1,5 +1,3 @@
-
-
 # paying - платеж
 
 def tickets(people):
